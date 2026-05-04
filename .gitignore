@@ -1,0 +1,9 @@
+#Ignorar todos los files.out
+*.out
+
+#Ingorar los files sin extensión (ejecutables de C en Linux)
+#Como los files terminan en .c, esto evitará subir los comilados
+*
+!*.c
+!.gitignore
+!README.md
