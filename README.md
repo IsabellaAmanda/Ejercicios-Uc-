@@ -37,7 +37,7 @@ Un pequeño script que convierte medidas de metros a centímetros y milímetros.
 ## ✅ Progreso de la Guía
 - [x] Ejercicios de secuenciación básica.
 - [x] Estructuras condicionales.
-- [ ] Ciclos y bucles complejos.
+- [x] Ciclos y bucles complejos.
 - [ ] Introducción a Punteros.
 
 ---
