@@ -18,7 +18,7 @@ int main()
     int n, i;
     char name[50], name_max[50], name_min[50];
     float nota, nota_max = -1, nota_min = 999, acum, prom, prom_alumnos = 0, suma = 0;
-    int band = 1, total = 0;
+    int band = 0, total = 0;
 
     // preguntar si hay alumnos para ingresar
     printf("\nHay alumnos para ingresar? (1-si, 0-no): ");
