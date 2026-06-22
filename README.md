@@ -36,8 +36,9 @@ Un pequeño script que convierte medidas de metros a centímetros y milímetros.
 - [x] Estructuras condicionales (`if-else`, `switch`).
 - [x] Ciclos, bucles complejos y anidados.
 - [x] Manejo básico de cadenas de texto (`strings`).
+- [X] Uso de funciones subprogramas.
 - [ ] Introducción a Punteros.
-- [ ] Uso de funciones subprogramas.
+
 
 ---
 *Mantenimiento constante de código para mejorar mi perfil técnico.*
