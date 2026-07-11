@@ -7,6 +7,7 @@ Actualmente, mi enfoque está en dominar:
 * **Estructuras de control:** `if`, `else`, `switch`.
 * **Ciclos:** `for`, `while` y `do-while` (¡y ciclos anidados!).
 * **Manejo de cadenas:** Uso de la librería `<string.h>` y `strcpy`.
+* **Manejo de archivo:** Uso de funciones `fscanf` , `fprintf` entre otras.
 * **Uso de funciones: `type Name_func(type vars);` y `void Name_func(type vars);`
 
 ---
