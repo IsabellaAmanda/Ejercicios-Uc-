@@ -25,10 +25,7 @@ int main()
 
         while (fscanf(numeros, "%d", &numero) == 1)
         {
-            if (numero <= 1)
-            {
-                continue;
-            }
+
             cont = 0;
             for (int i = 2; i < numero; i++)
             {
