@@ -7,6 +7,7 @@ Actualmente, mi enfoque está en dominar:
 * **Estructuras de control:** `if`, `else`, `switch`.
 * **Ciclos:** `for`, `while` y `do-while` (¡y ciclos anidados!).
 * **Manejo de cadenas:** Uso de la librería `<string.h>` y `strcpy`.
+* **Uso de funciones: `type Name_func(type vars);` y `void Name_func(type vars);`
 
 ---
 
@@ -35,7 +36,9 @@ Un pequeño script que convierte medidas de metros a centímetros y milímetros.
 - [x] Estructuras condicionales (`if-else`, `switch`).
 - [x] Ciclos, bucles complejos y anidados.
 - [x] Manejo básico de cadenas de texto (`strings`).
+- [X] Uso de funciones subprogramas.
 - [ ] Introducción a Punteros.
+
 
 ---
 *Mantenimiento constante de código para mejorar mi perfil técnico.*
